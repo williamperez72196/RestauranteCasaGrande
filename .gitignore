@@ -1,0 +1,22 @@
+# Ignorar archivos de compilación de Java
+*.class
+
+# Ignorar directorios generados por IDEs
+nbproject/
+build/
+
+# Ignorar archivos temporales del sistema
+*.log
+*.tmp
+
+# Ignorar archivos de configuración de IntelliJ IDEA
+.idea/
+
+# Ignorar archivos de configuración de NetBeans
+*.swp
+*.swo
+
+# Ignorar archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
